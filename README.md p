@@ -208,3 +208,10 @@ wedfghjn.
  trghnjm
  4tyui;
  update read me with new instructions
+cd /path/to/paok-lil
+git add <file1> <file2>
+git add .
+git push origin main
+git add .
+git commit -m "Initial commit: Set up project structure for paok-lil"
+git push origin main
