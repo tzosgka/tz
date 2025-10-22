@@ -202,4 +202,9 @@ This project is supported by:
 </p>
 qsdfg.tyujk
 
-wedfghjn
+wedfghjn.
+ ....     kkijkk
+ tghjm,
+ trghnjm
+ 4tyui;
+ update read me with new instructions
